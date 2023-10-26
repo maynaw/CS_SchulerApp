@@ -1,0 +1,14 @@
+﻿<Application x:Class="schulerAppMayssaAlnawaqil.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:schulerAppMayssaAlnawaqil"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush Color="#e6ffff" x:Key="lightTuerkis"></SolidColorBrush>
+        <SolidColorBrush Color="#cceeff" x:Key="lightBlue"></SolidColorBrush>
+        <SolidColorBrush Color="#4da6ff" x:Key="Blue"></SolidColorBrush>
+        <SolidColorBrush Color="#b3ffe6" x:Key="lightGreen"></SolidColorBrush>
+        <SolidColorBrush Color="#e6fff7" x:Key="lighterGreen"></SolidColorBrush>
+        <SolidColorBrush Color="#ffe6ff" x:Key="lightPink"></SolidColorBrush>
+    </Application.Resources>
+</Application>
